@@ -1,7 +1,7 @@
 {
   "leadId": "PL-042",
   "businessName": "Doctor Khalid Clinic",
-  "nicheId": "all niches",
+  "nicheId": "clinic",
   "category": "Hospital",
   "phone": "04235757779",
   "whatsapp": "924235757779",
@@ -17,6 +17,6 @@
   "yearsExperience": 5,
   "workingHours": "Open today · Reply on WhatsApp fast",
   "taglineOverride": "",
-  "about": "Doctor Khalid Clinic provides trusted all niches services in Lahore.",
+  "about": "Doctor Khalid Clinic provides trusted clinic services in Lahore.",
   "urduSupport": true
 }
